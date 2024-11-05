@@ -1,4 +1,3 @@
-# 💫 About Me:
 I am a software developer, with a solid background in mathematics and physics. I am driven by a<br>passion for creating user-friendly web and native applications for iOS and Android . My expertise<br>spans a wide range of technologies, including JavaScript/TypeScript, Redux, Next.js, Tailwind<br>CSS, React , and React Native . Additionally, I am proficient in Python and Django , allowing me to<br>build robust back-end solutions and handle full-stack development with ease.<br>I specially pay attention to important key aspects of an application: excellent state management for<br>consistent UI, responsiveness for reach, testing for robustness and optimization.
 
 
