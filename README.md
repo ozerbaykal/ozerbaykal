@@ -1,4 +1,9 @@
-I am a software developer, with a solid background in mathematics and physics. I am driven by a<br>passion for creating user-friendly web and native applications for iOS and Android . My expertise<br>spans a wide range of technologies, including JavaScript/TypeScript, Redux, Next.js, Tailwind<br>CSS, React , and React Native . Additionally, I am proficient in Python and Django , allowing me to<br>build robust back-end solutions and handle full-stack development with ease.<br>I specially pay attention to important key aspects of an application: excellent state management for<br>consistent UI, responsiveness for reach, testing for robustness and optimization.
+I am a Full Stack Developer with a strong background in Mathematics and Physics, passionate about building scalable, user-friendly web and mobile applications.<br>
+I specialize in both frontend and backend development using technologies like React, React Native, Redux Toolkit, Next.js, Tailwind CSS, and TypeScript.<br>
+On the backend, I develop robust systems with Node.js, Express, and NestJS, and work with MongoDB, PostgreSQL, Prisma, and Docker to deliver secure and efficient APIs.<br>
+My experience spans across e-commerce, dashboard, and AI-integrated mobile apps, with a focus on clean architecture, authentication flows (JWT & OAuth), and microservices.<br>
+With a scientific mindset, I care deeply about performance, responsive UI, state management, and testable code. I'm currently expanding my skills in AI and cloud-based deployments.
+
 
 
 ## 🌐 Socials:
